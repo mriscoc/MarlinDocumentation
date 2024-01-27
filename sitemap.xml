@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>https://marlinfw.org/feeds/feed.json</loc>
+        <lastmod>2024-01-27T16:30:07-06:00</lastmod>
+    </url>
+    <url>
+        <loc>https://marlinfw.org/</loc>
+        <lastmod>2024-01-27T16:30:07-06:00</lastmod>
+    </url>
+    <url>
+        <loc>https://marlinfw.org/assets/stylesheets/main.css</loc>
+        <lastmod>2024-01-27T16:30:07-06:00</lastmod>
+    </url>
+</urlset>
